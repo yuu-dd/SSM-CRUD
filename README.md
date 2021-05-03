@@ -1,3 +1,3 @@
 # SSM-CRUD
 create for my study
-a simple SSM_CRUD program
+，a simple SSM_CRUD program
